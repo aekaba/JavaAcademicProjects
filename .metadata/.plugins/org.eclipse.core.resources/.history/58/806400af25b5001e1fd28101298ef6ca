@@ -1,6 +1,0 @@
-
-public abstract class Araç {
-	private String marka;
-	private String model;
-	private String yakıtTürü;
-}
