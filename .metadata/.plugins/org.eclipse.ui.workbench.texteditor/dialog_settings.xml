@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="ArrayList&lt;String&gt; color = new ArrayList&lt;String&gt;();"/>
+		<list key="findhistory">
+			<item value="ArrayList&lt;String&gt; color = new ArrayList&lt;String&gt;();"/>
+			<item value="BabyGoat bGoatObj=new BabyGoat(&quot;Bebek Keçi&quot;);"/>
+			<item value=""/>
+		</list>
+	</section>
+</section>

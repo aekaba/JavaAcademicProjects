@@ -1,0 +1,16 @@
+
+public class Scooter extends Araç{
+
+	public Scooter(String marka, String model) {
+		super(marka, model);
+		setYakıtTürü();
+		// TODO Auto-generated constructor stub
+	}
+	
+	@Override
+	public void setYakıtTürü(String yakıtTürü) {
+		// TODO Auto-generated method stub
+		setYakıtTürü();;
+	}
+	
+}

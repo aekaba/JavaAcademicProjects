@@ -1,0 +1,16 @@
+
+public class DRAkademisyen extends AkademikKadro {
+
+	public DRAkademisyen(String name, String surname, boolean ehliyet, double asgari, Araç hususiAraç) {
+		super(name, surname, ehliyet, asgari, hususiAraç);
+		setMaas();
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void setMaas() {
+		super.maas = getAsgari()*2;
+		
+	}
+
+}

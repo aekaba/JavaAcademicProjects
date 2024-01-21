@@ -1,0 +1,27 @@
+
+public class DRAkademisyen extends AkademikKadro {
+
+	public DRAkademisyen(String name, String surname, boolean ehliyet, double asgari, Araç hususiAraç) {
+		super(name, surname, ehliyet, asgari);
+		setMaas();
+		setHususiAraç( hususiAraç);
+		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public void setMaas() {
+		super.maas = getAsgari()*2;
+		
+	}
+	@Override
+	public void setHususiAraç(Araç hususiAraç) {
+		if (hususiAraç instanceof Scooter) {
+			super.hususiAraç=hususiAraç;
+			System.out.println("Doğru Araçla Eşleştirildiniz.");
+		} else {
+			System.out.println(hususiAraç.getClass().getName()+" Aracını kullanamazsınız");
+		}
+		
+	}
+
+}

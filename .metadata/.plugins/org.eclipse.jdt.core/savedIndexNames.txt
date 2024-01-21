@@ -1,0 +1,21 @@
+INDEX VERSION 1.134+/Users/ataemir/projects/Java Projects/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+2277531189.index
+3976056437.index
+276589608.index
+3865976396.index
+1710708443.index
+4083394299.index
+3768392338.index
+2055901506.index
+3419175272.index
+2435225411.index
+640410600.index
+1366871166.index
+1403642078.index
+3701833872.index
+3949586469.index
+1549653844.index
+2692022123.index
+1152094406.index
+2898258235.index

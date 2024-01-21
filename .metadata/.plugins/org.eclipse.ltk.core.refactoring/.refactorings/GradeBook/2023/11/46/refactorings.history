@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;GradeBook.grades&apos; in &apos;GradeBook&apos;&#x0A;- Original project: &apos;GradeBook&apos;&#x0A;- Original element: &apos;GradeBook.grades&apos;&#x0A;- Getter method name: &apos;getGrades&apos;&#x0A;- Setter method name: &apos;setGrades&apos;&#x0A;- Field visibility: &apos;public&apos;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;grades&apos;" flags="589830" getter="getGrades" id="org.eclipse.jdt.ui.self.encapsulate" input="/src&lt;{GradeBook.java[GradeBook^grades" insertion="4" setter="setGrades" stamp="1699517062909" version="1.0" visibility="1"/>
+</session>

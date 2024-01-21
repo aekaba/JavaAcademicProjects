@@ -1,0 +1,17 @@
+
+public class Akademisyen extends AkademikKadro {
+	private double maas;
+	public Akademisyen(String name, String surname, boolean ehliyet, double asgari, Araç hususiAraç) {
+		super(name, surname, ehliyet, asgari, hususiAraç);
+		// TODO Auto-generated constructor stub
+	}
+	public double getMaas() {
+		return maas;
+	}
+	public void setMaas(double maas) {
+		this.maas = getAsgari()*1.5;
+	}
+	
+	
+	
+}
