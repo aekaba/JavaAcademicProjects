@@ -1,5 +1,4 @@
 import java.awt.FlowLayout;
-
 import javax.swing.*;
 
 public class mainPage extends JFrame{

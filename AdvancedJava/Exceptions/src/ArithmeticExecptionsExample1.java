@@ -15,7 +15,7 @@ public class ArithmeticExecptionsExample1 {
 				
 				System.out.println("Result: "+quantient(a, b));
 				myExec=false;
-			} catch (Exception e) {
+			} catch (ArithmeticException e) {
 				// Tümünde direk Exception kullanma hata Input hatası ise  
 				// input execptionu kullan. değilse bunu buna dikkat et
 				// ArithmeticExecption da sayısal hataları yakalar

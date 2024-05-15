@@ -11,9 +11,9 @@ public class ErrayIndexOutOfExecptionExample1 {
 		
 		
 		try {
-			System.out.println(myArray[7]);
+			System.out.println(myArray[7]);	
 		} catch (ArrayIndexOutOfBoundsException e) {
-			System.out.println(e.getLocalizedMessage());
+			System.out.println(e.getMessage());
 		} finally {
 			System.out.println("İleri Java Programlama...");
 		}

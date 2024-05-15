@@ -14,8 +14,6 @@ public class Example2 extends JFrame implements ActionListener{
 	private JButton button;
 	
 	public Example2() {
-		
-		
 		setLayout(new GridLayout(2,2));
 		
 		textField1 = new JTextField(12);
